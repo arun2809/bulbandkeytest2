@@ -1,0 +1,12 @@
+.flexdisplay
+{
+	display: flex;
+	flex-wrap: wrap;
+	justify-content:space-between;
+}
+.whitefont
+{
+	color: white;
+	font-style: normal;
+	font-size: 80%;
+}
